@@ -7,5 +7,10 @@
       "password": "123456",
       "id": 1
     }
-  ]
+  ],
+  "authentication":  {
+    "accessToken": "a3f24f4a11fd0135627ddd8ab9f40cbe",
+    "id": 1
+  }
+  
 }
